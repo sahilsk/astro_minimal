@@ -1,3 +1,7 @@
+# Demo site for learning Astro.js
+
+Hosted url: https://astrojs-minimal.netlify.app
+
 # Astro Starter Kit: Basics
 
 ```sh
